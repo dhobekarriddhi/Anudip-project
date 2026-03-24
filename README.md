@@ -8,6 +8,5 @@ The analysis indicates that there are considerable variations in the rate of cri
 Key performance indicators such as the total number of crimes recorded, the states with the highest and lowest rates of crime registration, and the category-wise distribution of crimes were effectively utilized for the analysis of the data set. The use of visual elements such as bar charts and maps was effective in enhancing the clarity and effectiveness of the findings and conclusions derived from the analysis process.
 
 Overall, the above project highlights the potential for leveraging data analytics to gain significant insights from available data. The results could potentially be beneficial to law enforcement agencies and researchers in devising strategies for the prevention of crimes.
-![Uploa<img width="1920" height="1020" alt="page 2" src="https://github.com/user-attachments/assets/fe7c1634-239e-40fa-bcf6-9cdccf4fd0ac" />
-ding page1.png…]()
-![Uploading page 3.png…]()
+![Uploading page1.png…]()
+
